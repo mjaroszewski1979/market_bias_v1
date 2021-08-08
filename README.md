@@ -69,6 +69,16 @@
 
 #### Application is working with Python/Smtplib to handle data from the contact form and will automatically send Free Ebook in PDF format to email address provided by the user. Thanks to Flask abort() function custom error pages are displayed to the user when an exception occurs.
 
+### Features
+* CSS Flexbox applied to simplify complex layout structure
+* HTML and CSS minification process aims to reduce webpage loading speed 
+* Embedded Font Awesome icon collection 
+* Fully responsive navigation menu
+* CSS custom variables for fast and forward-looking design 
+* Moving the email send function to a background thread to avoid unnecessary delays during request handling 
+* Storing app’s secure credentials in environment variables
+* A highly adaptable and scalable workflow for structuring and configuring a production-grade flask application using flask blueprints and the application factory pattern
+
 ----------------------------------------------------------------
 
 ![caption](https://github.com/mjaroszewski1979/market_bias_v1/blob/main/market_bias.gif) 
