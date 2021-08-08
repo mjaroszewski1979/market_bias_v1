@@ -71,7 +71,7 @@
 
 ----------------------------------------------------------------
 
-![caption](https://github.com/mjaroszewski1979/market_bias_v1/marketbias.gif) 
+![caption](https://github.com/mjaroszewski1979/market_bias_v1/blob/main/marketbias.gif) 
 
   Live | Code | Technologies
   ---- | ---- | ------------
